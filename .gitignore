@@ -1,2 +1,5 @@
 django/puppet/modules/*
 django/.env
+django/.vagrant
+
+!.directory
