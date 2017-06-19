@@ -1,0 +1,2 @@
+django/puppet/modules/*
+django/.env
